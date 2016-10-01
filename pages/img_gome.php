@@ -1,0 +1,1 @@
+<a href="index.php" ><img src="../img/health_photo.jpg" width="382" height="101"/> </a>

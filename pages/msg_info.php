@@ -1,0 +1,1 @@
+<span id="msg_info"><img src="../img/informa.png" width="30"/>Operaci&oacute;n realizada correctamente</span>
